@@ -24,6 +24,7 @@
 
 
 // Importer ////////////////////////////////////////////////////////////////////
+"STereo Lithography Files" = "STereo Lithography Files";
 "STL Import" = "STL Import";
 "Importing geometry..." = "Importing geometry...";
 "No geometry was imported." = "No geometry was imported.";

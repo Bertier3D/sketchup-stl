@@ -29,7 +29,7 @@ module CommunityExtensions
       end
 
       def description
-        'STereo Lithography Files (*.stl)'
+        STL.translate('STereo Lithography Files') << ' (*.stl)'
       end
 
       def id

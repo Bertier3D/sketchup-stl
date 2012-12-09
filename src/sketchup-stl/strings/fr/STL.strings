@@ -10,9 +10,9 @@
 "This is an open source project sponsored by the SketchUp team. More " +
 "info and updates at https://github.com/SketchUp/sketchup-stl"
 =
-"Ajoute importation et exportation du format de fichier STL. " +
-"Ceci est un projet Open Source soutenu par l'équipe de SketchUp. Plus " +
-"d'infos et mises à jour sur https://github.com/SketchUp/sketchup-stl"
+"Ajoute l'import et l'export de fichiers au format STL. " +
+"Ceci est un projet Open Source soutenu par l'équipe de SketchUp." +
+"Plus d'infos et mises à jour sur https://github.com/SketchUp/sketchup-stl"
 
 
 // Common //////////////////////////////////////////////////////////////////////
@@ -25,22 +25,22 @@
 
 // Importer ////////////////////////////////////////////////////////////////////
 "STereo Lithography Files" = "Fichiers STéréoLithographie";
-"STL Import" = "STL Import"
+"STL Import" = "Import STL"
 "Importing geometry..." = "Importation de géométrie..."
-"No geometry was imported." = "No geometry was imported."
-"Repairing geometry..." = "Repairing geometry..."
-"Cleaning up geometry..." = "Cleaning up geometry..."
-"Importing STL done!" = "Importing STL done!"
+"No geometry was imported." = "Aucune géométrie importée."
+"Repairing geometry..." = "Réparation de la géométrie..."
+"Cleaning up geometry..." = "Nettoyage de la géométrie..."
+"Importing STL done!" = "Import STL réussi!"
 
 // Import Options
-"Import STL Options" = "Import STL Options"
-"Geometry" = "Geometry"
-"Merge coplanar faces" = "Merge coplanar faces"
-"Scale" = "Scale"
-"Units:" = "Units:"
-"Preserve drawing origin" = "Preserve drawing origin"
-"Accept" = "Accept"
-"Cancel" = "Cancel"
+"Import STL Options" = "Options d'import STL"
+"Geometry" = "Geometrie"
+"Merge coplanar faces" = "joindre les faces co-planaires"
+"Scale" = "Echelle"
+"Units:" = "Unités :"
+"Preserve drawing origin" = "Préserver l'origine du dessin"
+"Accept" = "Accepter"
+"Cancel" = "Annuler"
 
 // Binary Import
 "STL Importer (c) Jim Foltz
@@ -74,22 +74,22 @@ Continue?"
 
 
 // Exporter ////////////////////////////////////////////////////////////////////
-"Nothing to export." = "Nothing to export."
-"No objects selected. Export entire model?" = "No objects selected. Export entire model?"
-"%s file location" = "%s file location"
+"Nothing to export." = "Rien à exporter."
+"No objects selected. Export entire model?" = "Pas d'objet sélectionné. Exporter l'ensemble du modèle?"
+"%s file location" = "%s emplacement du fichier"
 
 "%i facets exported
 %i objects ignored"
 =
-"%i facets exported
-%i objects ignored"
+"%i faces exportées
+%i objets ignorés"
 
 // Export Options
-"STL Export Options" = "STL Export Options"
-"Export unit: " = "Export unit: "
-"File Format " = "File Format "
+"STL Export Options" = "Options d'export STL"
+"Export unit: " = "Unité d'export: "
+"File Format " = "Format de fichier "
 "ASCII" = "ASCII"
-"Binary" = "Binary"
+"Binary" = "Binaire"
 
 // Menu Item
 "Export STL..." = "Export STL..."

@@ -24,8 +24,9 @@
 
 
 // Importer ////////////////////////////////////////////////////////////////////
+"STereo Lithography Files" = "STereoLithografie-Dateien";
 "STL Import" = "STL-Import";
-"Importing geometry..." = "Importiere geometry...";
+"Importing geometry..." = "Importiere Geometrie...";
 "No geometry was imported." = "Keine Geometrie wurde importiert.";
 "Repairing geometry..." = "Repariere Geometrie...";
 "Cleaning up geometry..." = "Bereinige Geometrie...";

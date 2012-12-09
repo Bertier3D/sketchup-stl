@@ -1,0 +1,95 @@
+// path = CommunityExtensions::STL::PLUGIN_STRINGS_PATH
+// options = { :custom_path => path }
+// tr = CommunityExtensions::STL::Translator.new("STL.strings", options)
+
+
+// Extension Description ///////////////////////////////////////////////////////
+"STL Import & Export" = "STL Import & Export"
+
+"Adds STL file format import and export. " +
+"This is an open source project sponsored by the SketchUp team. More " +
+"info and updates at https://github.com/SketchUp/sketchup-stl"
+=
+"Ajoute importation et exportation du format de fichier STL. " +
+"Ceci est un projet Open Source soutenu par l'équipe de SketchUp. Plus " +
+"d'infos et mises à jour sur https://github.com/SketchUp/sketchup-stl"
+
+
+// Common //////////////////////////////////////////////////////////////////////
+"Meters" = "Mètres"
+"Centimeters" = "Centimètres"
+"Millimeters" = "Millimètres"
+"Feet" = "Pieds"
+"Inches" = "Pouces"
+
+
+// Importer ////////////////////////////////////////////////////////////////////
+"STereo Lithography Files" = "Fichiers STéréoLithographie";
+"STL Import" = "STL Import"
+"Importing geometry..." = "Importation de géométrie..."
+"No geometry was imported." = "No geometry was imported."
+"Repairing geometry..." = "Repairing geometry..."
+"Cleaning up geometry..." = "Cleaning up geometry..."
+"Importing STL done!" = "Importing STL done!"
+
+// Import Options
+"Import STL Options" = "Import STL Options"
+"Geometry" = "Geometry"
+"Merge coplanar faces" = "Merge coplanar faces"
+"Scale" = "Scale"
+"Units:" = "Units:"
+"Preserve drawing origin" = "Preserve drawing origin"
+"Accept" = "Accept"
+"Cancel" = "Cancel"
+
+// Binary Import
+"STL Importer (c) Jim Foltz
+
+STL Binary Header:
+%s
+
+Found %i triangles. Continue?"
+=
+"STL Importer (c) Jim Foltz
+
+STL Binary Header:
+%s
+
+Found %i triangles. Continue?"
+
+// ASCII Import
+"STL Importer (c) Jim Foltz
+
+STL ASCII File
+Found %i polygons.
+
+Continue?"
+=
+"STL Importer (c) Jim Foltz
+
+STL ASCII File
+Found %i polygons.
+
+Continue?"
+
+
+// Exporter ////////////////////////////////////////////////////////////////////
+"Nothing to export." = "Nothing to export."
+"No objects selected. Export entire model?" = "No objects selected. Export entire model?"
+"%s file location" = "%s file location"
+
+"%i facets exported
+%i objects ignored"
+=
+"%i facets exported
+%i objects ignored"
+
+// Export Options
+"STL Export Options" = "STL Export Options"
+"Export unit: " = "Export unit: "
+"File Format " = "File Format "
+"ASCII" = "ASCII"
+"Binary" = "Binary"
+
+// Menu Item
+"Export STL..." = "Export STL..."
